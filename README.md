@@ -139,7 +139,7 @@ graph TD
 
 ## 💻 Technology Stack
 
-- **Frontend**: Laravel, Blade Templates, TailwindCSS
+- **Frontend**: Laravel, Blade Templates, Bootstrap
 - **Backend**: Python, Flask
 - **AI/ML**: Meta LLaMA, ChromaDB, Sentence Transformers
 - **APIs**: Together AI, Tavily, Roboflow
