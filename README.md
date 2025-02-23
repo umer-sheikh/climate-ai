@@ -10,9 +10,9 @@
 [View Presentation](https://docs.google.com/presentation/d/1ibRg5sHTLqK8_YnJoAZVNK-hAOxrkiM6/edit?usp=sharing&ouid=112266298343109239222&rtpof=true&sd=true)
 
 <p align="center">
-<img src="docs/images/screenshot1.png" width="270" alt="Climate AI Chat">
-<img src="docs/images/screenshot2.png" width="270" alt="Satellite Analysis">
-<img src="docs/images/screenshot3.png" width="270" alt="Climate Insights">
+<img src="public/assets/img/1ss.png" width="270" alt="Climate AI Login">
+<img src="public/assets/img/2ss.png" width="270" alt="Satellite Analysis">
+<img src="public/assets/img/3ss.png" width="270" alt="Climate Insights">
 </p>
 
 </div>
@@ -44,7 +44,7 @@ The MBZUAI Climate AI Assistant provides comprehensive climate-related assistanc
 - 🛰️ **Satellite Image Analysis**
   - Post-disaster assessment
   - Environmental impact studies
-  - Geographic change detection
+  - Building damage analysis
 
 - ⚡ **Renewable Energy & Technology**
   - Clean energy developments
