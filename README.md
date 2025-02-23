@@ -97,7 +97,7 @@ cd backend
 pip install -r requirements.txt
 ```
 
-2. Create and configure `.env` file:
+2. Create and configure `backend/.env` file:
 ```env
 TAVILY_API_KEY=your_tavily_key
 TOGETHER_API_KEY=your_together_key
