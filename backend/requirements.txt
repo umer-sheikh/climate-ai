@@ -1,0 +1,15 @@
+flask
+flask-cors
+requests
+python-dotenv
+roboflow
+opencv-python
+numpy
+supervision
+uuid
+chromadb
+torch
+together
+inference-sdk
+transformers
+sentence-transformers
