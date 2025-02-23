@@ -129,9 +129,11 @@ class VendorController extends Controller
         ];
 
         // Make the API request
+        //get TOGETHER_API_KEY from env
+        $api_key = env('TOGETHER_API_KEY');
         $response = Http::withHeaders([
             'Content-Type' => 'application/json',
-            'Authorization' => 'Bearer 1cf6a4b7b3611fa0a6511f1723c64dd566c046c968ba774f8c31618bd554448d'
+            'Authorization' => 'Bearer '. $api_key
         ])->post('https://api.together.xyz/v1/chat/completions', $payload);
 
         $responseBody = json_decode($response->getBody(), true);
@@ -196,9 +198,11 @@ class VendorController extends Controller
         ];
 
         // Make the API request
+        //get TOGETHER_API_KEY from env
+        $api_key = env('TOGETHER_API_KEY');
         $response = Http::withHeaders([
             'Content-Type' => 'application/json',
-            'Authorization' => 'Bearer 1cf6a4b7b3611fa0a6511f1723c64dd566c046c968ba774f8c31618bd554448d'
+            'Authorization' => 'Bearer '.$api_key
         ])->post('https://api.together.xyz/v1/chat/completions', $payload);
 
         $responseBody = json_decode($response->getBody(), true);

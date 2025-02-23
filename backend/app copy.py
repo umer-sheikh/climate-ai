@@ -215,7 +215,7 @@ def chat_completion():
 
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 1cf6a4b7b3611fa0a6511f1723c64dd566c046c968ba774f8c31618bd554448d'
+        'Authorization': 'Bearer '
     }
 
     # Get chat response
