@@ -1,13 +1,20 @@
 # MBZUAI Climate AI Assistant 🌍
 
+## Team
+- **Muhammad Umer Sheikh:** MS Machine Learning, MBZUAI
+- **Dr. Muhammad Haris:** Assistant Professor Computer Vision, MBZUAI
+
+## Quick Links
+- 🎥 [Video Demo](https://youtu.be/2_hv6fJEa28)
+- 🔗 [Interface Local URL](http://127.0.0.1:8000/mbzuai-climate-ai)
+- 📊 [Project Presentation](https://docs.google.com/presentation/d/1ibRg5sHTLqK8_YnJoAZVNK-hAOxrkiM6/edit?usp=sharing&ouid=112266298343109239222&rtpof=true&sd=true)
+
 <div align="center">
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trychroma.com)
 [![Meta LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama)
-
-[View Presentation](https://docs.google.com/presentation/d/1ibRg5sHTLqK8_YnJoAZVNK-hAOxrkiM6/edit?usp=sharing&ouid=112266298343109239222&rtpof=true&sd=true)
 
 <p align="center">
 <img src="public/assets/img/1ss.png" width="270" alt="Climate AI Login">
